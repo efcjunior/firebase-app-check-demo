@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "838485203869",
+    "project_id": "medco-8e8e9",
+    "storage_bucket": "medco-8e8e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838485203869:android:6b6ab79627a0857d5ded74",
+        "android_client_info": {
+          "package_name": "br.com.medco_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838485203869-g1usu03lleb4ubku39u9154pvh0egbr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.medco_app",
+            "certificate_hash": "6ea95ed9b98b7504e2ccff49c1ae69f2282af057"
+          }
+        },
+        {
+          "client_id": "838485203869-o4s5cvpehkvjumpkb86l9qpob85u7jlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBDXzhlI7dFHKdvSX3n81PZHHPfIEW2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838485203869-o4s5cvpehkvjumpkb86l9qpob85u7jlg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838485203869-5698i3gam59pc6h40jlr7ks470d0mebl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medcoApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838485203869:android:a83ae4ace36a6cd75ded74",
+        "android_client_info": {
+          "package_name": "digital.guato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838485203869-o4s5cvpehkvjumpkb86l9qpob85u7jlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBDXzhlI7dFHKdvSX3n81PZHHPfIEW2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838485203869-o4s5cvpehkvjumpkb86l9qpob85u7jlg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838485203869-5698i3gam59pc6h40jlr7ks470d0mebl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medcoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
