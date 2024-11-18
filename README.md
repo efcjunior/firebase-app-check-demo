@@ -1,8 +1,3 @@
-Segue um arquivo `README.md` em formato Markdown que pode ser usado diretamente:
-
----
-
-```markdown
 # Firebase App Check Demo
 
 Este repositório contém um projeto de demonstração para configurar o **Firebase App Check** em aplicativos Flutter. Foi criado com o objetivo de apoiar equipes de desenvolvimento na implementação do App Check em projetos em desenvolvimento.
